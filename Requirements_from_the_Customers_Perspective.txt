@@ -1,0 +1,66 @@
+Types of Requirements
+ - Functional Requirements => Describes the behaviours( functions or services ) of the system that support user goals,tasks or activities.
+   * Presents what the system must do.
+   * Often written in "must" or "shall"
+ - Non Functional Requirements =>  Specify with what quality (performance, scalability ) the system should work.
+  * Specifies the constraints - The limits/restrictions within the system should be realized.
+ - Business requirements => A high level business objective of the organization that builds a product or of a customer who procures/requests it.
+  * Business requirements describe the 1. Why the organization is implementing it.
+                                       2. The business benefits the organization hopes to achieve.
+                                       3. They typically comes from the funding sponsor for a project, the acquiring customer, the manager of the actual users, the marketing department or a product visionary.
+  * Business requirements are recorded in a vision and scope document. Other docs include project charter, business case, and market requirements document.
+ - User requirement - describes a goal or task that specific classes of users must be able to perform with a system ,or a desired produc attributet that will provide value to the users.
+  * Ways to represent user requirements are 
+   * Use cases 
+   * user stories
+   * event-response tables
+  * Every project has multiple user requirements
+ - System requirements => Describes the requirements for a product that is composed of multiple components or subsystems.
+  * A system can be all software  or it can include both hardware and software.
+ - Data requirement =>  Establishes the process used to identify , prioritise, precisely formulate and validate the data required to achieve the business objectives.
+ - External interface requirements => A description of a connection betweeen a software system and an user, another system or hardware device.
+
+There are 3 Requirements Levels 
+ - Business requirements
+ - User requirements
+ - Functional Requirements
+
+* Without adequate customer involvement, the inescapable outcome at the end of the project is an expectation gap.
+A gulf between what the customer really needs and what the developers deliver.
+* To reduce expectation gap, there''s a need for multiple contact points with the customer representatives.
+* These contact points can be interviews, observations ,focus groups, Workshops, Questionares, Surveys
+* Each contact point tends to reduce the expecation gap.
+
+Business Analyst has the primary responsibility for leading requirements-related activities on a project, typically is the point person to forge the collabooration between the customers and developers.
+
+The gap that arises between the architecture and implemenatation is called architecture erosion -> leads to expectation gap.
+
+Use templates, embedding design,frameworks , strong project management tools to reduce architecture erosion.
+
+Parties involved on reaching an agreement in requirements 
+ * developers
+ * management
+ * testers
+ * customers
+
+Organizations uses the act of signing off on the requirements as the mark of stakeholder approval.
+
+Don''t use sign off as a weapont, Treat it as a milestone.
+* A baseline of the requirements agreement is established and it should be kept under change control to avoid modification if necessary.
+
+Agreeing on requirements in Agile Projects
+ * Agile projects don''t have a formal sign off action
+ * there''s no attempt on an agile project to achieve stakeholder approval on the full scope of requirements for the project up front.
+ * The full set of functionality is identified over time.
+ * Agile projects usually maintain requirements in the form of user stories in a product backlog.
+  => The product owner and the team reach an agreement on what stories will be developed in the next iteration.
+  => the set of stories is chosen based on their priority and the team''s velocity.
+  => Requested changes are considerated for future iterations.
+
+It''s risky to achieve a sign off  from all relevant stake holders because of the following reasons 
+ -> logisitcs/ busy schedules
+ -> people who are reluctant to commit and be held accountable later on.
+ -> if the stakeholders are afraid to make changes after approving the changes, they might drag their feet on approval.
+
+In such a scenario, it''s better to keep moving forward cautiously while documenting the fact that there's risk involved and certain stakeholders weren't on board with the sign off.
+Meanwhile follow up with the same people to get their approval while the project is in development.
