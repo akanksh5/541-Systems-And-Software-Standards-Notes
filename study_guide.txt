@@ -8,3 +8,4 @@ There are 4 major reasons why we can reuse requirements:
  =3. Increase quality: There will be fewer defects, reduced rework since reusable requirements have usually been well designed, implemented and tested.
  =4. From the user's perspective ,requirements reuse can improve functional consistency across related members of a product line or among a set of business applications.
  * Same look and feel across products.
+ It removes the necessity to reinvent the wheel.
