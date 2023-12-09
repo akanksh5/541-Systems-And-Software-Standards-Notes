@@ -34,3 +34,37 @@ Answer: Some of the requirements reuse barriers include
 
  =7.Ownership: If we are developing a software product for a specific customer, its requirements are likely the proprietary intellectual property 
  of the customer thereby inhibiting the opportunity for reusability.
+
+
+3.Explain why stability of vendor is an important factor to be considered when evaluating a tool for requirements management.
+Answer: Couldn't find the answer on slides. Will update this answer later.
+
+4.What are the core activities of requirement management? Provide a brief description for each activity.
+Answer: Requirements management includes all activities that maintain the integrity,accuracy, and currency of requirements agreements throughout the project.
+The core activities of requirement management are divided into 4 major categories
+ =1. Version Control
+ =2. Change Control
+ =3. Requirements status tracking
+ =4. Requirements tracing
+ Version Control: Uniquely identifying different versions of an item- applies at the level of both individual requirements and requirements sets, most common presented in the form of documents.
+ The version control should begin as soon as requirement or a document is drafted so a history of changes made can be retained.
+ Every version of the requirements must be uniqued identified.
+ Every team member should be able to access the current version of the requirements.
+ Changes must be clearly documented and communicated to everyone affected.
+ To minimise confusion, permit only designed individuals to update the requirements and make sure the version indentifier changes whenever an update is made.
+ The most robust approach is to store the requirements in a requirements management tool since they track all the changes.
+
+ Change Control: Subsequent changes to the document can be done only through the designated change control procedure.
+ RM tools allows to check for the history of changes made to every requirement which is valuable when you need to revert to an earlier version.
+ Such a tool allows for comments describing the rationale behind a decision to add ,modify or delete a requirement. These comments are helpful if the
+ requirement becomes a topic for discussion again in the future.
+ Each circulated version of the requirements document or each requirment in  a tool should include a revision history that identifies the changes made, the date of each change,the individual who made the change and the reason for each change.
+ Each requiremnt has attributes with properties that distinguish it from other requirements.
+ Once all the modifications are done, A Change request is raised and upon updation, the version number changes as well.
+
+ Requirement Status Tracking: The different types of requirement statuses are defined.
+ The status for every requirement is then recorded.
+ There's a tracking in place for every requirement based on the status.
+
+ Requirement Tracing: the links to different existing requirements are set in place and if there are links to requirements with external systems, They're defined in this phase as well.
+ 
