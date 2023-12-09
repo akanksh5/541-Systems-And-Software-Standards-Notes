@@ -64,7 +64,7 @@ The core activities of requirement management are divided into 4 major categorie
 
  Requirement Status Tracking: The different types of requirement statuses are defined.
  The status for every requirement is then recorded.
- There's a tracking in place for every requirement based on the status.
+ =here's a tracking in place for every requirement based on the status.
 
  Requirement Tracing: the links to different existing requirements are set in place and if there are links to requirements with external systems, They're defined in this phase as well.
 
@@ -80,3 +80,20 @@ If I was a BA, I would handle these changes in the following ways
 * Approved changes are communicated to all affected participants
 * The project incorporates requirements changes in a consistent and effective fashion
 
+6.What are some potential benefits of implementing requirements tracing?
+Answer:Requirements trace information documents the dependencies and logical links between individual requirements and other system elements.
+It helps us facilitate impact analysis by helping us identify all the work products that we might have to modify to implement a proposed requirement changes.
+The benefits of implementing requirements tracing are:
+ =1. Find the missing requirements : Look for business requirements that don't trace to any user requirements and user requirements that don't trace to any functional requirements.
+ =2. Finding unnecessary requirements: Look for any functional requirements that don't trace back to user or business requirements and therefore might not be needed.
+ =3. Certification and Compliance: You can use trace information when certifying a safety critical product, to demonstrate that all requirements were implemented.
+ although it doesn't confirm it was implemented correctly.
+ =4. Change impact analysis: Without trace information, there's a good chance that we'll overlook a system element that would be affected if we add, delete or modify a particular requirement.
+ =5. Maintenance: Reliable trace information facilitates your ability to make changes correctly and completely during maintenance.
+ When corporate policies or government regulations change, software systems often must be updated.
+ A table that shows each  applicable business rule was addressed in the functional requirements,design and code makes it easier to make the necessary changes properly.
+ =6. Project Tracking: if you record trace data during development, you'll have an accurate record of the implementation status of planned functionality.
+ Absent links indicate work products that have not yet been created.
+ =7.Reengineering: You can list the functions in an existing system you're replacing and trace them to where they are addressed in the new system's requirements and software components.
+ =8. Reuse: Trace information facilitates the reuse of product components by identifying packages of related requirements ,designs, code and tests.
+ =9. Testing: When a test fails,the links between tests, requirements and code point developers toward likely areas to examine for the defect.
