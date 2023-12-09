@@ -67,4 +67,16 @@ The core activities of requirement management are divided into 4 major categorie
  There's a tracking in place for every requirement based on the status.
 
  Requirement Tracing: the links to different existing requirements are set in place and if there are links to requirements with external systems, They're defined in this phase as well.
- 
+
+5.Most developers have encountered an apparently simple change that turned out to be far more complicated than expected. Explain why this is so. If you were a BA, how you would manage a requirements change?
+Answer:Developers sometimes don’t—or can’t—produce realistic estimates of the cost and other ramifications of a proposed software change.
+Additionally, when developers who want to be accommodating agree to add enhancements that users request, requirements changes slip in through the
+back door instead of being approved by the right stakeholders.
+Such uncontrolled change is a common source of project chaos, schedule slips, quality problems, and hard feelings.
+If I was a BA, I would handle these changes in the following ways
+* Proposed requirements changes are thoughtfully evaluated before being committed to
+* Appropriate individuals make informed business decisions about requested changes
+* Change activity is made visible to affected stakeholders
+* Approved changes are communicated to all affected participants
+* The project incorporates requirements changes in a consistent and effective fashion
+
