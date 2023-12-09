@@ -97,3 +97,20 @@ The benefits of implementing requirements tracing are:
  =7.Reengineering: You can list the functions in an existing system you're replacing and trace them to where they are addressed in the new system's requirements and software components.
  =8. Reuse: Trace information facilitates the reuse of product components by identifying packages of related requirements ,designs, code and tests.
  =9. Testing: When a test fails,the links between tests, requirements and code point developers toward likely areas to examine for the defect.
+
+ 7.Is requirement tracing necessary?
+ Answer: Similar to ans 6 (subject to change)
+
+ 8.Why are standards important?
+ Answer: Standards are important for the following reason:
+ =1.Cost and Time savings : Standardization simplifies development and testing processes which leads to savings in both time and money.
+ =2.Certification/Compliance Schemes: Customers may require compliance:
+      Federal/State Law - Government stipulates that any software used by the government must adhere to certain standards for reasons of public safety.
+      For example: DoD
+ =3.Enhance health, safety and quality of life
+ =4. Professional qualifications: If a company is required to follow standards, having some standards knowledge is an advantage while applying for a job.
+ =5. Guidance/Best Practises:Standards will help guide down the right path , ask the right questions otherwise missed.
+ =6.Reuse: if following standards,requirements,design artifacts and engineering process etc can be reused.
+ =7. Communication: Standards emphasise communication and make it easy to collaborate within teams in a large organization. It makes the communication much more consistent
+ Standards emphasis communication and shared understanding.
+ =8.Contracts: Standard adherence may be a contractual obligation when software companies bid on contracts. For example, In Aerospace and Military.
