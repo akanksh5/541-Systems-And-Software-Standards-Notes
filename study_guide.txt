@@ -4,8 +4,33 @@ This helps us in improving the overall productivity, overall quality as well as 
 There are 4 major reasons why we can reuse requirements:
  =1. Increase productivity:  Faster delivery, lower development costs, increased consistency both within and across systems and higher team productivity.
     Reusing trusted requirements can save review time ,accelerate the approval cycle and speed up other project activities such as testing.
+
  =2. Reuse can improve the ability to estimate implementation effort if data from implementing the same requirements on a previous project is available.
+
  =3. Increase quality: There will be fewer defects, reduced rework since reusable requirements have usually been well designed, implemented and tested.
+
  =4. From the user's perspective ,requirements reuse can improve functional consistency across related members of a product line or among a set of business applications.
  * Same look and feel across products.
  It removes the necessity to reinvent the wheel.
+
+2. What are some of the requirements reuse barriers? Provide a brief description for each barrier.
+Answer: Some of the requirements reuse barriers include
+ =1.Missing or poor requirements: Requirements developed in the previous projects weren't fully developed.so it's impossible to reuse them.
+ Requirements might be badly written, incomplete or outdated making them a poor fit for the present circumstances.
+
+ =2. NIH "Not invented here"  : Some people are reluctant to reuse requirements from another organization.
+ The requirements written elsewhere could be harder to understand.They might have followed a different terminology.
+ The requirements might refer to documents that are unavailable or inaccessible in the current organization.
+ =3. NAH "Not Applicable Here" Syndrome : Practitioners propose that a new process or approach does  not apply to their project or organization.
+ The members might feel their project is unique and hence reusability isn't applicable in such a scenario.
+
+ =4. Writing Style: The BAs might have produced terminologies and conventions that might not be standard. The requirements might have embedded design constraints that
+ will offer little opportunity for reuse. If it's embedded, that requirement cannot be reused as it is.
+
+ =5.Inconsistent organization: It can be difficult to reuse components since authors organise their requirements in many different ways.
+ 
+ =6.Project Type: Requirements might be tightly coupled to specific implementation environments or platforms that are less likely to generate
+ reusable requirements or to benefit from an existing pool of requirements knowledge.
+
+ =7.Ownership: If we are developing a software product for a specific customer, its requirements are likely the proprietary intellectual property 
+ of the customer thereby inhibiting the opportunity for reusability.
