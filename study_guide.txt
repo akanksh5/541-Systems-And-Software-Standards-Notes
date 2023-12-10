@@ -178,3 +178,8 @@ A major difference between level 3 and 4 is the predictability of the process pe
 Quantitative process improvement objectives
 Continuously revised to reflect changing business objectives. and used as a criteria in managing process improvement.
 The organization's stability provides a platform for agility.
+
+A reduction in re-work and re-planning
+ Better product quality due to a lower number of defects
+ Higher customer satisfaction
+ Improved efficiency, speed and quality in SW development/maintenance
