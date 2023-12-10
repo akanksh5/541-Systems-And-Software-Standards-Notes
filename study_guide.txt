@@ -132,4 +132,49 @@ Answer:
 * Loss of or inability to obtain insurance
 
 10. What is CMMI? Why is CMMI important?
-Answer:
+Answer:CMMI corresponds to Capability Maturity Model Integrated (CMMI).
+-Its a means to measure the maturity and effectiveness of their processes (In order to be productive / effective / competitive).
+A Standish study found that over 30% of the projects failed to be delivered and nearly 80% of the remaining failed to meet schedule and budget.
+The US DoD funded the SW Engineering at Carnegie Melon University to find ways to help defence contractor to build SW software more efficiently and economically, thus lowering the overall cost of the projects.
+As a result, The CMMI was developed for
+:Systems Engineering 
+:Supplier Sourcing 
+:Integrated Product and Process development
+:People CMM
+:Software Acquisition
+
+it describes a common sense ,efficient ,proven ways of doing business.
+It's a method to evaluate and measure the maturity of the SW development process of an organization.
+It measures the maturity of the SW on a scale of 1 to 5.
+
+CMMI integrates several disciplines and bodies of knowledge :
+* Software and systems engineering
+* Integrated Process and Product development
+* Supplier Sourcing 
+
+CMMI consists of best practises that address development and maintenance activities that cover the product lifecycle from conception
+through development ,delivery and maintenance.
+
+Currently CMMI 2.0 is supported with a focus on performance.
+CMMI consists of maturity level which is a well defined evolutionary plateau toward achieving a mature software process.
+Each maturity level provides a layer in the foundation for continuous process.
+Under the CMMI methodology , processes are rated according to their maturity levels.
+There are 5 maturity levels:
+1. Initial - Maturity level 0 and 1 => Processes are usually ad hoc and unknown. Work may and may not be completed. Initial and unpredictable.
+
+2. Managed - An organization has achieved all specific goals and generic goals of the maturity level 2 process. Requirements are managed.Processes are planned,performed ,measured and controlled. Status of the work products and delivery of services are visible to management at defined points. Commitments are established among relevant stakeholders and are revised as needed. Work products are reviewed with stakeholders and are controlled. Companies are still reactive but they have outlines for their projects.
+
+3. Defined - An organizaiton has achieved all the specific goals and generic goals of maturity level 3 which involves defined ,well characterized and understood processes and process that are standardized with procedures , tools and methods.
+
+organization wide standards provide guidance across projects and programs. The standards and procedures are catered for how the organization functions as a whole. Processes are more rigorously defined than maturity level 2.
+
+4.Quantitatively Managed : An organization that has achieved all specific goals and generic goals at the levels 1,2,3 and 4. 
+The organization is data driven with quantitative performance that's predictable and align to most of the needs of internal and external stakeholders.
+Quality and process performance are understood in statistical terms and are managed throughout the life of the processes.
+Sub processes are selected that significantly contribute to overall process performance.
+These selected processes are controlled using statistical and other quantitative techniques.Quality and performance measures are incorporated into the organization's processes.
+A major difference between level 3 and 4 is the predictability of the process performance.
+5 . Optimizing : Maturity level 5 focusses on continuously improving the process performance through both incremental and innovative methodologies.
+Quantitative process improvement objectives
+Continuously revised to reflect changing business objectives. and used as a criteria in managing process improvement.
+The organization's stability provides a platform for agility.
