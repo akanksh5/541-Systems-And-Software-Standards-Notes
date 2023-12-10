@@ -48,7 +48,7 @@ The core activities of requirement management are divided into 4 major categorie
  =4. Requirements tracing
  Version Control: Uniquely identifying different versions of an item- applies at the level of both individual requirements and requirements sets, most common presented in the form of documents.
  The version control should begin as soon as requirement or a document is drafted so a history of changes made can be retained.
- Every version of the requirements must be uniqued identified.
+ Every version of the requirements must be uniquely identified.
  Every team member should be able to access the current version of the requirements.
  Changes must be clearly documented and communicated to everyone affected.
  To minimise confusion, permit only designed individuals to update the requirements and make sure the version indentifier changes whenever an update is made.
