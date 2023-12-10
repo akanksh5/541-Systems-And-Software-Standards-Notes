@@ -114,3 +114,22 @@ The benefits of implementing requirements tracing are:
  =7. Communication: Standards emphasise communication and make it easy to collaborate within teams in a large organization. It makes the communication much more consistent
  Standards emphasis communication and shared understanding.
  =8.Contracts: Standard adherence may be a contractual obligation when software companies bid on contracts. For example, In Aerospace and Military.
+
+9.What are the risks of not complying with standards?
+Answer: 
+* The inability to sell a product
+* Damage relationship with suppliers
+* Interoperability issues
+* Product not approved by regulators
+* Possible governmental sanctions , fine , and/or reprimands
+* Possible civil lawsuits
+* Possible criminal lawsuits
+* Loss of revenue
+* Accidents
+* Illness 
+* Property Damage
+* Loss of professional license
+* Loss of or inability to obtain insurance
+
+10. What is CMMI? Why is CMMI important?
+Answer:
